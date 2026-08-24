@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">简体中文</a> · English · <a href="https://github.com/prozacLaputa?tab=repositories">All repositories</a>
+  <a href="./README.md">简体中文</a> · English · <a href="https://prozaclaputa.github.io/">Portfolio</a> · <a href="https://github.com/prozacLaputa?tab=repositories">All repositories</a>
 </p>
 
 # Hi, I'm Prozac
@@ -119,6 +119,8 @@ Every project below has a real, usable interface. Click a screenshot for its sou
 ---
 
 <p align="center">
+  <a href="https://prozaclaputa.github.io/">Explore the portfolio</a>
+  ·
   <a href="https://github.com/prozacLaputa?tab=repositories">View all repositories</a>
   ·
   <a href="https://github.com/prozacLaputa">GitHub</a>

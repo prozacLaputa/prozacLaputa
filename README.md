@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  简体中文 · <a href="./README_EN.md">English</a> · <a href="https://github.com/prozacLaputa?tab=repositories">全部仓库</a>
+  简体中文 · <a href="./README_EN.md">English</a> · <a href="https://prozaclaputa.github.io/">作品集网站</a> · <a href="https://github.com/prozacLaputa?tab=repositories">全部仓库</a>
 </p>
 
 # 你好，我是 Prozac
@@ -119,6 +119,8 @@
 ---
 
 <p align="center">
+  <a href="https://prozaclaputa.github.io/">浏览完整作品集</a>
+  ·
   <a href="https://github.com/prozacLaputa?tab=repositories">查看全部仓库</a>
   ·
   <a href="https://github.com/prozacLaputa">GitHub</a>
