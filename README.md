@@ -12,7 +12,9 @@
 
 我通常从一个真实的小问题出发：思考过程看不见、硬件没有好用的 macOS 客户端、灵感总在切换窗口时消失。然后一路做到它真的可以使用、可以解释，也愿意开放给别人继续改。
 
-## 精选作品
+## 原创作品
+
+这里的每个项目都有真实、可使用的界面。点击截图可以查看源码、体验方式或下载入口。
 
 <table>
   <tr>
@@ -54,16 +56,59 @@
       <p><a href="https://github.com/prozacLaputa/free3-mapper-macos/releases/latest">下载最新版 ↗</a> · <a href="https://github.com/prozacLaputa/free3-mapper-macos">源码 →</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="56%">
+      <a href="https://github.com/prozacLaputa/FlashThought">
+        <img src="./assets/flash-thought.png" alt="FlashThought 界面" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/FlashThought">FlashThought</a></h3>
+      <p>用全局快捷键随时捕捉闪念，不打断当下心流；所有笔记以纯 JSON 留在本地。</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
+      <p><a href="https://github.com/prozacLaputa/FlashThought">源码与使用说明 →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
+      <a href="https://github.com/prozacLaputa/codex-usage-hud">
+        <img src="./assets/codex-usage-hud.jpg" alt="Codex Usage HUD 界面" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/codex-usage-hud">Codex Usage HUD</a></h3>
+      <p>把当前额度窗口的剩余百分比，安静地显示在 Codex 桌面端左下角。</p>
+      <p><code>macOS</code> <code>JavaScript</code> <code>Codex</code></p>
+      <p><a href="https://github.com/prozacLaputa/codex-usage-hud">源码与安装说明 →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
+      <a href="https://github.com/prozacLaputa/codex-decision-ui">
+        <img src="./assets/codex-decision-ui.png" alt="Decision UI for Codex 界面" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/codex-decision-ui">Decision UI for Codex</a></h3>
+      <p>只在真正需要判断时，把文本选项变成 Codex 原生可点击决策。</p>
+      <p><code>Agent Skill</code> <code>Native UI</code> <code>Codex</code></p>
+      <p><a href="https://github.com/prozacLaputa/codex-decision-ui">源码与使用说明 →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
+      <a href="https://github.com/prozacLaputa/AppHotkeyTool">
+        <img src="./assets/app-hotkey-tool.png" alt="快捷启动界面" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/AppHotkeyTool">快捷启动</a></h3>
+      <p>一个轻量的 macOS 菜单栏启动器，用全局快捷键打开、聚焦或隐藏常用 App。</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Global Hotkey</code></p>
+      <p><a href="https://github.com/prozacLaputa/AppHotkeyTool">源码与使用说明 →</a></p>
+    </td>
+  </tr>
 </table>
-
-## 更多原创作品
-
-| 作品 | 它解决什么 | 形态 |
-| --- | --- | --- |
-| **[FlashThought](https://github.com/prozacLaputa/FlashThought)** | 不打断心流地捕捉闪念，笔记以纯 JSON 留在本地 | macOS / Swift |
-| **[Codex Usage HUD](https://github.com/prozacLaputa/codex-usage-hud)** | 在 Codex 桌面端持续显示当前额度窗口的剩余百分比 | macOS / JavaScript |
-| **[Decision UI for Codex](https://github.com/prozacLaputa/codex-decision-ui)** | 只在真正需要判断时，把文本选项变成原生可点击决策 | Agent Skill |
-| **[快捷启动](https://github.com/prozacLaputa/AppHotkeyTool)** | 用全局快捷键打开、聚焦或隐藏常用 App | macOS / Swift |
 
 ## 我怎么做作品
 

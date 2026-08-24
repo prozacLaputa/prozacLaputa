@@ -12,7 +12,9 @@
 
 I usually start with a concrete problem of my own: invisible thinking processes, hardware without a usable macOS client, or ideas lost while switching windows. Then I keep building until the result is usable, explainable, and open for others to inspect and extend.
 
-## Selected work
+## Original work
+
+Every project below has a real, usable interface. Click a screenshot for its source, usage guide, live experience, or download.
 
 <table>
   <tr>
@@ -54,16 +56,59 @@ I usually start with a concrete problem of my own: invisible thinking processes,
       <p><a href="https://github.com/prozacLaputa/free3-mapper-macos/releases/latest">Download ↗</a> · <a href="https://github.com/prozacLaputa/free3-mapper-macos">Source →</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="56%">
+      <a href="https://github.com/prozacLaputa/FlashThought">
+        <img src="./assets/flash-thought.png" alt="FlashThought interface" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/FlashThought">FlashThought</a></h3>
+      <p>Captures fleeting thoughts through a global shortcut without breaking flow; every note stays in a plain local JSON file.</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
+      <p><a href="https://github.com/prozacLaputa/FlashThought">Source and usage →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
+      <a href="https://github.com/prozacLaputa/codex-usage-hud">
+        <img src="./assets/codex-usage-hud.jpg" alt="Codex Usage HUD interface" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/codex-usage-hud">Codex Usage HUD</a></h3>
+      <p>Quietly keeps the remaining quota for the current usage window visible inside the Codex desktop app.</p>
+      <p><code>macOS</code> <code>JavaScript</code> <code>Codex</code></p>
+      <p><a href="https://github.com/prozacLaputa/codex-usage-hud">Source and installation →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
+      <a href="https://github.com/prozacLaputa/codex-decision-ui">
+        <img src="./assets/codex-decision-ui.png" alt="Decision UI for Codex interface" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/codex-decision-ui">Decision UI for Codex</a></h3>
+      <p>Turns text choices into native clickable decisions only when judgment is genuinely required.</p>
+      <p><code>Agent Skill</code> <code>Native UI</code> <code>Codex</code></p>
+      <p><a href="https://github.com/prozacLaputa/codex-decision-ui">Source and usage →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
+      <a href="https://github.com/prozacLaputa/AppHotkeyTool">
+        <img src="./assets/app-hotkey-tool.png" alt="AppHotkeyTool interface" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/AppHotkeyTool">AppHotkeyTool</a></h3>
+      <p>A lightweight macOS menu-bar launcher for opening, focusing, or hiding frequently used apps with global shortcuts.</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Global Hotkey</code></p>
+      <p><a href="https://github.com/prozacLaputa/AppHotkeyTool">Source and usage →</a></p>
+    </td>
+  </tr>
 </table>
-
-## More original work
-
-| Project | What it solves | Form |
-| --- | --- | --- |
-| **[FlashThought](https://github.com/prozacLaputa/FlashThought)** | Captures fleeting thoughts without breaking flow; notes stay in local JSON | macOS / Swift |
-| **[Codex Usage HUD](https://github.com/prozacLaputa/codex-usage-hud)** | Keeps the remaining quota for the current Codex window visible | macOS / JavaScript |
-| **[Decision UI for Codex](https://github.com/prozacLaputa/codex-decision-ui)** | Turns text choices into native clickable decisions only when judgment is truly needed | Agent Skill |
-| **[AppHotkeyTool](https://github.com/prozacLaputa/AppHotkeyTool)** | Opens, focuses, or hides frequently used apps with global shortcuts | macOS / Swift |
 
 ## How I build
 

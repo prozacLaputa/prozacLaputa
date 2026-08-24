@@ -2,6 +2,13 @@
 
 本文件记录 GitHub Profile README 的重要更新。
 
+## [1.1.0] - 2026-08-24
+
+### 变更
+
+- 将 FlashThought、Codex Usage HUD、Decision UI for Codex 和快捷启动从文字列表升级为带真实界面图的完整作品卡。
+- 现在全部 7 个有 UI 的原创项目均以截图形式展示；“更多原创作品”只留给未来没有 UI 的项目。
+
 ## [1.0.0] - 2026-08-24
 
 ### 新增
