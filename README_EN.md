@@ -32,6 +32,19 @@ Every project below has a real, usable interface. Click a screenshot for its sou
   </tr>
   <tr>
     <td width="56%">
+      <a href="https://github.com/prozacLaputa/FlashThought">
+        <img src="./assets/flash-thought.png" alt="FlashThought interface" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/FlashThought">FlashThought</a></h3>
+      <p>Captures fleeting thoughts through a global shortcut without breaking flow; every note stays in a plain local JSON file.</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
+      <p><a href="https://github.com/prozacLaputa/FlashThought">Source and usage →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
       <a href="https://prozaclaputa.github.io/chaoshan-jiaobei/">
         <img src="./assets/chaoshan-jiaobei.png" alt="Chaoshan Jiaobei interface" />
       </a>
@@ -58,15 +71,15 @@ Every project below has a real, usable interface. Click a screenshot for its sou
   </tr>
   <tr>
     <td width="56%">
-      <a href="https://github.com/prozacLaputa/FlashThought">
-        <img src="./assets/flash-thought.png" alt="FlashThought interface" />
+      <a href="https://github.com/prozacLaputa/codex-decision-ui">
+        <img src="./assets/codex-decision-ui.png" alt="Decision UI for Codex interface" />
       </a>
     </td>
     <td width="44%" valign="top">
-      <h3><a href="https://github.com/prozacLaputa/FlashThought">FlashThought</a></h3>
-      <p>Captures fleeting thoughts through a global shortcut without breaking flow; every note stays in a plain local JSON file.</p>
-      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
-      <p><a href="https://github.com/prozacLaputa/FlashThought">Source and usage →</a></p>
+      <h3><a href="https://github.com/prozacLaputa/codex-decision-ui">Decision UI for Codex</a></h3>
+      <p>Turns text choices into native clickable decisions only when judgment is genuinely required.</p>
+      <p><code>Agent Skill</code> <code>Native UI</code> <code>Codex</code></p>
+      <p><a href="https://github.com/prozacLaputa/codex-decision-ui">Source and usage →</a></p>
     </td>
   </tr>
   <tr>
@@ -80,19 +93,6 @@ Every project below has a real, usable interface. Click a screenshot for its sou
       <p>Quietly keeps the remaining quota for the current usage window visible inside the Codex desktop app.</p>
       <p><code>macOS</code> <code>JavaScript</code> <code>Codex</code></p>
       <p><a href="https://github.com/prozacLaputa/codex-usage-hud">Source and installation →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="56%">
-      <a href="https://github.com/prozacLaputa/codex-decision-ui">
-        <img src="./assets/codex-decision-ui.png" alt="Decision UI for Codex interface" />
-      </a>
-    </td>
-    <td width="44%" valign="top">
-      <h3><a href="https://github.com/prozacLaputa/codex-decision-ui">Decision UI for Codex</a></h3>
-      <p>Turns text choices into native clickable decisions only when judgment is genuinely required.</p>
-      <p><code>Agent Skill</code> <code>Native UI</code> <code>Codex</code></p>
-      <p><a href="https://github.com/prozacLaputa/codex-decision-ui">Source and usage →</a></p>
     </td>
   </tr>
   <tr>

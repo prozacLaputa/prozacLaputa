@@ -32,6 +32,19 @@
   </tr>
   <tr>
     <td width="56%">
+      <a href="https://github.com/prozacLaputa/FlashThought">
+        <img src="./assets/flash-thought.png" alt="FlashThought 界面" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/FlashThought">FlashThought</a></h3>
+      <p>用全局快捷键随时捕捉闪念，不打断当下心流；所有笔记以纯 JSON 留在本地。</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
+      <p><a href="https://github.com/prozacLaputa/FlashThought">源码与使用说明 →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
       <a href="https://prozaclaputa.github.io/chaoshan-jiaobei/">
         <img src="./assets/chaoshan-jiaobei.png" alt="问筊界面" />
       </a>
@@ -58,15 +71,15 @@
   </tr>
   <tr>
     <td width="56%">
-      <a href="https://github.com/prozacLaputa/FlashThought">
-        <img src="./assets/flash-thought.png" alt="FlashThought 界面" />
+      <a href="https://github.com/prozacLaputa/codex-decision-ui">
+        <img src="./assets/codex-decision-ui.png" alt="Decision UI for Codex 界面" />
       </a>
     </td>
     <td width="44%" valign="top">
-      <h3><a href="https://github.com/prozacLaputa/FlashThought">FlashThought</a></h3>
-      <p>用全局快捷键随时捕捉闪念，不打断当下心流；所有笔记以纯 JSON 留在本地。</p>
-      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
-      <p><a href="https://github.com/prozacLaputa/FlashThought">源码与使用说明 →</a></p>
+      <h3><a href="https://github.com/prozacLaputa/codex-decision-ui">Decision UI for Codex</a></h3>
+      <p>只在真正需要判断时，把文本选项变成 Codex 原生可点击决策。</p>
+      <p><code>Agent Skill</code> <code>Native UI</code> <code>Codex</code></p>
+      <p><a href="https://github.com/prozacLaputa/codex-decision-ui">源码与使用说明 →</a></p>
     </td>
   </tr>
   <tr>
@@ -80,19 +93,6 @@
       <p>把当前额度窗口的剩余百分比，安静地显示在 Codex 桌面端左下角。</p>
       <p><code>macOS</code> <code>JavaScript</code> <code>Codex</code></p>
       <p><a href="https://github.com/prozacLaputa/codex-usage-hud">源码与安装说明 →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="56%">
-      <a href="https://github.com/prozacLaputa/codex-decision-ui">
-        <img src="./assets/codex-decision-ui.png" alt="Decision UI for Codex 界面" />
-      </a>
-    </td>
-    <td width="44%" valign="top">
-      <h3><a href="https://github.com/prozacLaputa/codex-decision-ui">Decision UI for Codex</a></h3>
-      <p>只在真正需要判断时，把文本选项变成 Codex 原生可点击决策。</p>
-      <p><code>Agent Skill</code> <code>Native UI</code> <code>Codex</code></p>
-      <p><a href="https://github.com/prozacLaputa/codex-decision-ui">源码与使用说明 →</a></p>
     </td>
   </tr>
   <tr>

@@ -2,6 +2,12 @@
 
 本文件记录 GitHub Profile README 的重要更新。
 
+## [1.2.0] - 2026-08-24
+
+### 变更
+
+- 按作品代表性与完成度重新排序：Vibe Canvas、FlashThought、问筊、Free3 Mapper、Decision UI for Codex、Codex Usage HUD、快捷启动。
+
 ## [1.1.0] - 2026-08-24
 
 ### 变更
