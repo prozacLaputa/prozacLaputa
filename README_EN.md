@@ -58,6 +58,19 @@ Every project below has a real, usable interface. Click a screenshot for its sou
   </tr>
   <tr>
     <td width="56%">
+      <a href="https://github.com/prozacLaputa/pocket-observatory">
+        <img src="./assets/pocket-observatory.png" alt="Pocket Observatory interface" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/pocket-observatory">Pocket Observatory</a></h3>
+      <p>A quiet native macOS app for interest spending, text-only wishlists, and previewing the budget left after a purchase.</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
+      <p><a href="https://github.com/prozacLaputa/pocket-observatory/releases/latest">Download ↗</a> · <a href="https://github.com/prozacLaputa/pocket-observatory">Source →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
       <a href="https://github.com/prozacLaputa/standup-island">
         <img src="./assets/standup-island.png" alt="StandUp Island interface" />
       </a>
