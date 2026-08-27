@@ -58,6 +58,19 @@ Every project below has a real, usable interface. Click a screenshot for its sou
   </tr>
   <tr>
     <td width="56%">
+      <a href="https://github.com/prozacLaputa/standup-island">
+        <img src="./assets/standup-island.png" alt="StandUp Island interface" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/standup-island">StandUp Island</a></h3>
+      <p>A tiny droplet living at the top of your Mac, gently reminding you to hydrate and move.</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
+      <p><a href="https://github.com/prozacLaputa/standup-island/releases/latest">Download ↗</a> · <a href="https://github.com/prozacLaputa/standup-island">Source →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
       <a href="https://github.com/prozacLaputa/free3-mapper-macos">
         <img src="./assets/free3-mapper.png" alt="Free3 Mapper interface" />
       </a>

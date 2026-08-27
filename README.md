@@ -58,6 +58,19 @@
   </tr>
   <tr>
     <td width="56%">
+      <a href="https://github.com/prozacLaputa/standup-island">
+        <img src="./assets/standup-island.png" alt="起身岛界面" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/standup-island">起身岛</a></h3>
+      <p>让住在 Mac 顶部的小水滴，温柔提醒你喝口水、站起来走一会。</p>
+      <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
+      <p><a href="https://github.com/prozacLaputa/standup-island/releases/latest">下载最新版 ↗</a> · <a href="https://github.com/prozacLaputa/standup-island">源码 →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
       <a href="https://github.com/prozacLaputa/free3-mapper-macos">
         <img src="./assets/free3-mapper.png" alt="Free3 Mapper 界面" />
       </a>
