@@ -59,11 +59,11 @@
   <tr>
     <td width="56%">
       <a href="https://github.com/prozacLaputa/pocket-observatory">
-        <img src="./assets/pocket-observatory.png" alt="Pocket Observatory 界面" />
+        <img src="./assets/pocket-observatory.png" alt="口袋观测站界面" />
       </a>
     </td>
     <td width="44%" valign="top">
-      <h3><a href="https://github.com/prozacLaputa/pocket-observatory">Pocket Observatory</a></h3>
+      <h3><a href="https://github.com/prozacLaputa/pocket-observatory">口袋观测站 / Pocket Observatory</a></h3>
       <p>把兴趣支出、纯文本想买清单与购买后预算预演，收进一个安静的原生 macOS 应用。</p>
       <p><code>macOS</code> <code>Swift</code> <code>Local-first</code></p>
       <p><a href="https://github.com/prozacLaputa/pocket-observatory/releases/latest">下载最新版 ↗</a> · <a href="https://github.com/prozacLaputa/pocket-observatory">源码 →</a></p>
