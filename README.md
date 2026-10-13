@@ -97,6 +97,19 @@
   </tr>
   <tr>
     <td width="56%">
+      <a href="https://github.com/prozacLaputa/stackchan-weiguang">
+        <img src="./assets/stackchan-weiguang.png" alt="Weiguang actual robot display" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/stackchan-weiguang">微光 / Weiguang</a></h3>
+      <p>静音的 StackChan 桌面伙伴：任务提醒、猫系互动、番茄钟和便签。</p>
+      <p><code>StackChan</code> <code>macOS</code> <code>USB / BLE</code></p>
+      <p><a href="https://github.com/prozacLaputa/stackchan-weiguang">源码与使用说明 →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
       <a href="https://github.com/prozacLaputa/codex-decision-ui">
         <img src="./assets/codex-decision-ui.png" alt="Decision UI for Codex 界面" />
       </a>
