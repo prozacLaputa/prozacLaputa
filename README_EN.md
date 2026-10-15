@@ -58,6 +58,19 @@ Every project below has a real, usable interface. Click a screenshot for its sou
   </tr>
   <tr>
     <td width="56%">
+      <a href="https://github.com/prozacLaputa/comind-cockpit">
+        <img src="./assets/comind-cockpit.jpg" alt="CoMind Cockpit — Screenshot uses synthetic demo content." />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/comind-cockpit">CoMind Cockpit</a></h3>
+      <p>A native Mac workspace connecting long-running topics, Codex conversations and existing notes.</p>
+      <p><code>macOS</code> <code>SwiftUI</code> <code>Experimental</code></p>
+      <p><a href="https://github.com/prozacLaputa/comind-cockpit/releases/latest">Download ↗</a> · <a href="https://github.com/prozacLaputa/comind-cockpit">Source →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
       <a href="https://github.com/prozacLaputa/pocket-observatory">
         <img src="./assets/pocket-observatory.png" alt="Pocket Observatory / 口袋观测站 interface" />
       </a>

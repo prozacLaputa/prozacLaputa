@@ -58,6 +58,19 @@
   </tr>
   <tr>
     <td width="56%">
+      <a href="https://github.com/prozacLaputa/comind-cockpit">
+        <img src="./assets/comind-cockpit.jpg" alt="CoMind 驾驶舱 — 截图使用合成示例内容。" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <h3><a href="https://github.com/prozacLaputa/comind-cockpit">CoMind 驾驶舱</a></h3>
+      <p>把长期主题、Codex 会话和已有笔记连成一个原生 Mac 工作台。</p>
+      <p><code>macOS</code> <code>SwiftUI</code> <code>Experimental</code></p>
+      <p><a href="https://github.com/prozacLaputa/comind-cockpit/releases/latest">下载实验版 ↗</a> · <a href="https://github.com/prozacLaputa/comind-cockpit">源码 →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="56%">
       <a href="https://github.com/prozacLaputa/pocket-observatory">
         <img src="./assets/pocket-observatory.png" alt="口袋观测站界面" />
       </a>
