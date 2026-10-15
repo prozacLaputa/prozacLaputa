@@ -103,7 +103,7 @@ Every project below has a real, usable interface. Click a screenshot for its sou
     </td>
     <td width="44%" valign="top">
       <h3><a href="https://github.com/prozacLaputa/stackchan-weiguang">Weiguang / 微光</a></h3>
-      <p>A quiet StackChan desk companion for task updates, cat-like expressions, focus sessions and sticky notes.</p>
+      <p>A StackChan desk companion for task recaps, cat-like interactions, focus and music, with optional AirPods voice chat.</p>
       <p><code>StackChan</code> <code>macOS</code> <code>USB / BLE</code></p>
       <p><a href="https://github.com/prozacLaputa/stackchan-weiguang">Source and setup →</a></p>
     </td>

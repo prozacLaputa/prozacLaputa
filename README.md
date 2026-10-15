@@ -103,7 +103,7 @@
     </td>
     <td width="44%" valign="top">
       <h3><a href="https://github.com/prozacLaputa/stackchan-weiguang">微光 / Weiguang</a></h3>
-      <p>静音的 StackChan 桌面伙伴：任务提醒、猫系互动、番茄钟和便签。</p>
+      <p>StackChan 桌面伙伴：任务接力、猫系互动、专注与音乐，戴上 AirPods 还可以语音聊天。</p>
       <p><code>StackChan</code> <code>macOS</code> <code>USB / BLE</code></p>
       <p><a href="https://github.com/prozacLaputa/stackchan-weiguang">源码与使用说明 →</a></p>
     </td>
